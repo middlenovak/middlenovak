@@ -1,2 +1,2 @@
-im noah
-i create basic HTML and python scripts
+Hello! I'm Noah.
+I make HTML, Python, and other projects!
